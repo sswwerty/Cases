@@ -54,5 +54,5 @@
 
 ---
 
-## 🛠️ Стек
+## Стек
 Python, Pandas, NumPy, Sklearn, XGBoost, Matplotlib
